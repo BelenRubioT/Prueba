@@ -1,0 +1,33 @@
+.img1{
+	height:200px;
+	width:200px;
+      }
+.img2{
+	height:300px;
+	width:300px;
+      }
+.logo{
+	height:100px;
+	width:100px;
+      }	
+table{
+	text-align:center;
+	background-color:#c03f47;
+	opacity: 0.95;
+	width:70%;
+      }
+body{
+	background-image: url("fondo5.jpg");
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: white;
+}
+a:active {
+  color: white;
+}
